@@ -1,0 +1,194 @@
+[
+ {
+  "name": "makkah_uq",
+  "y": 2026,
+  "m": 10,
+  "d": 18,
+  "lat": 21.4225,
+  "lon": 39.8262,
+  "method": "umm_al_qura",
+  "hanafi": false,
+  "tz": 180,
+  "result": {
+   "fajr": 1792288855.319165,
+   "sunrise": 1792293444.8275905,
+   "dhuhr": 1792314350.6328306,
+   "asr": 1792326333.2686844,
+   "maghrib": 1792335239.5137062,
+   "isha": 1792340639.5137062,
+   "approximated": false
+  }
+ },
+ {
+  "name": "cairo_egypt",
+  "y": 2026,
+  "m": 7,
+  "d": 1,
+  "lat": 30.0444,
+  "lon": 31.2357,
+  "method": "egypt",
+  "hanafi": false,
+  "tz": 180,
+  "result": {
+   "fajr": 1782868311.5260403,
+   "sunrise": 1782874647.4467456,
+   "dhuhr": 1782899936.7270315,
+   "asr": 1782912876.4504478,
+   "maghrib": 1782925219.0807047,
+   "isha": 1782930800.2777693,
+   "approximated": false
+  }
+ },
+ {
+  "name": "cairo_mwl_hanafi",
+  "y": 2026,
+  "m": 10,
+  "d": 18,
+  "lat": 30.0444,
+  "lon": 31.2357,
+  "method": "mwl",
+  "hanafi": true,
+  "tz": 180,
+  "result": {
+   "fajr": 1792291132.6091695,
+   "sunrise": 1792295924.5313478,
+   "dhuhr": 1792316412.0722988,
+   "asr": 1792330977.7065144,
+   "maghrib": 1792336875.0759535,
+   "isha": 1792341386.188671,
+   "approximated": false
+  }
+ },
+ {
+  "name": "london_isna_dst",
+  "y": 2026,
+  "m": 3,
+  "d": 30,
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "method": "isna",
+  "hanafi": false,
+  "tz": 60,
+  "result": {
+   "fajr": 1774843508.471354,
+   "sunrise": 1774849229.2817562,
+   "dhuhr": 1774872296.4052844,
+   "asr": 1774884919.6273553,
+   "maghrib": 1774895426.9150138,
+   "isha": 1774901177.214936,
+   "approximated": false
+  }
+ },
+ {
+  "name": "jakarta_karachi",
+  "y": 2026,
+  "m": 1,
+  "d": 15,
+  "lat": -6.2088,
+  "lon": 106.8456,
+  "method": "karachi",
+  "hanafi": false,
+  "tz": 420,
+  "result": {
+   "fajr": 1768426421.9820755,
+   "sunrise": 1768430919.9012618,
+   "dhuhr": 1768453315.304466,
+   "asr": 1768465607.3016255,
+   "maghrib": 1768475707.703632,
+   "isha": 1768480201.1062362,
+   "approximated": false
+  }
+ },
+ {
+  "name": "sydney_mwl",
+  "y": 2026,
+  "m": 12,
+  "d": 21,
+  "lat": -33.8688,
+  "lon": 151.2093,
+  "method": "mwl",
+  "hanafi": false,
+  "tz": 660,
+  "result": {
+   "fajr": 1797785786.248964,
+   "sunrise": 1797792047.7774844,
+   "dhuhr": 1797817981.8630373,
+   "asr": 1797831475.0305545,
+   "maghrib": 1797843916.7040122,
+   "isha": 1797849766.1546602,
+   "approximated": false
+  }
+ },
+ {
+  "name": "newyork_isna",
+  "y": 2026,
+  "m": 6,
+  "d": 21,
+  "lat": 40.7128,
+  "lon": -74.006,
+  "method": "isna",
+  "hanafi": false,
+  "tz": -240,
+  "result": {
+   "fajr": 1782027910.7849333,
+   "sunrise": 1782033905.2218347,
+   "dhuhr": 1782061073.5950336,
+   "asr": 1782075489.0953417,
+   "maghrib": 1782088241.5488458,
+   "isha": 1782094235.5953681,
+   "approximated": false
+  }
+ },
+ {
+  "name": "apia_mwl_dateline",
+  "y": 2026,
+  "m": 10,
+  "d": 18,
+  "lat": -13.83,
+  "lon": -171.76,
+  "method": "mwl",
+  "hanafi": false,
+  "tz": 840,
+  "result": {
+   "fajr": 1792252021.7434666,
+   "sunrise": 1792256364.5620582,
+   "dhuhr": 1792278736.2227068,
+   "asr": 1792290239.2808745,
+   "maghrib": 1792301119.4700515,
+   "isha": 1792305212.5837996,
+   "approximated": false
+  }
+ },
+ {
+  "name": "oslo_highlat",
+  "y": 2026,
+  "m": 6,
+  "d": 21,
+  "lat": 59.9139,
+  "lon": 10.7522,
+  "method": "mwl",
+  "hanafi": false,
+  "tz": 120,
+  "result": {
+   "fajr": 1782004169.1308894,
+   "sunrise": 1782006828.325494,
+   "dhuhr": 1782040728.5555818,
+   "asr": 1782057625.2330997,
+   "maghrib": 1782074628.255294,
+   "isha": 1782077287.4498987,
+   "approximated": true
+  }
+ },
+ {
+  "name": "tromso_polar",
+  "y": 2026,
+  "m": 6,
+  "d": 21,
+  "lat": 69.6492,
+  "lon": 18.9553,
+  "method": "mwl",
+  "hanafi": false,
+  "tz": 120,
+  "result": null
+ }
+]
